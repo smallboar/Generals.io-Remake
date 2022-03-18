@@ -1,4 +1,8 @@
 # Generals.io-Copy
+Video Demo and Explanation: https://www.youtube.com/watch?v=_yGWeTqExs4
+
+
+
 Just a small project that I did to practice using sockets, code for both the server and the client is included. In total it was ~1750 lines of code.
 
 Just a disclaimer, I don't own any of the ideas/mechanics of the game, I copied it directly from generals.io, I just used this as a fun project to work on over the summer.
