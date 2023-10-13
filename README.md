@@ -1,6 +1,8 @@
 # Generals.io-Copy
 Video Demo and Explanation: https://www.youtube.com/watch?v=_yGWeTqExs4
 
+![Uploading image.png…]()
+
 
 
 Just a small project that I did to practice using sockets, code for both the server and the client is included. In total it was ~1750 lines of code.
