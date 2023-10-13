@@ -1,6 +1,7 @@
 # Generals.io-Copy
 Video Demo and Explanation: https://www.youtube.com/watch?v=_yGWeTqExs4
 
+<img width="1434" alt="image" src="https://github.com/smallboar/Generals.io-Copy/assets/56139007/f23c5462-f272-4ce4-85ad-affada411049">
 ![Uploading image.png…]()
 
 
