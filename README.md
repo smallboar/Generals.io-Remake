@@ -2,6 +2,8 @@
 Video Demo and Explanation: https://www.youtube.com/watch?v=_yGWeTqExs4
 
 <img width="1434" alt="image" src="https://github.com/smallboar/Generals.io-Copy/assets/56139007/f23c5462-f272-4ce4-85ad-affada411049">
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://www.youtube.com/watch?v=_yGWeTqExs4)
+
 
 This a 2-8 player game that starts out with a randomized map with different mountains (obstacles) and cities (spawns 1 army every tick). This is a turn based game, every tick players will get
 one turn. Players start out with their king, which generates one army at every tick, and can move their soldiers off of each cell that they have control over. To control more grids, the player
